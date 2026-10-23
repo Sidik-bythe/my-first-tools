@@ -6,5 +6,4 @@ Bot emas otomatis jalan tiap 10 menit di HP Infinix.
 - `sinyal.log` = keputusan BUY/SELL/WAIT
 - Jalan pake crond di Termux
 
-Dibuat jam 03.56 di Sidokerto.
-Author: Sidik-bythe - Batch 2026
+Dibuat di Sidoarjo. Author: Sidik-bythe - Batch 2026
